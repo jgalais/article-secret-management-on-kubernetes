@@ -13,5 +13,5 @@
 ## Secret management workflow - Scheme
 
 <p align="center">
-  <img src="resources/secret_management_workflow_scheme.png" />
+  <img src="Resources/secret_management_workflow_scheme.png" />
 </p>
